@@ -1,0 +1,38 @@
+body {
+    background-image: url("reaume.jpg");
+    background-size:cover;
+}
+h1 
+{
+    color:black;
+    font-size:40px;
+    text-align:center;
+}
+
+h2 {
+    color: white;
+    font-size:30px;
+    text_align:center;
+}
+p{
+	font-size:30px;
+text_align:right;
+color:white;
+}
+div {
+    border: 3px solid white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right:cover;
+    margin-left:cover;
+text-align:center;
+font-size:30px;
+color:white;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+text-align:center;
+font-size:30px;
+color:white;
+}
